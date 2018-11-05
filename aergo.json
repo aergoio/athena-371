@@ -1,0 +1,8 @@
+{
+  "name" : "bylee/athena-371",
+  "source" : "src/main/lua/main.lua",
+  "target" : "app.lua",
+  "tests": [ "src/test/lua/test-main.lua" ],
+  "privatekey": "485xnPANpW19vSWR8e65MHX6imaG9KJyyGg1C4rjf9KpS6582tEd8DGWceF6BkKtCrxibP5gH",
+  "password": "1234"
+}
